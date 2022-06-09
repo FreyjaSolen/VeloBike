@@ -1,5 +1,5 @@
 # VeloBike
- Test work for university
+ Test work for Zaporizhzhia Polytechnic National University
 
 Implementation of tasks:
 1. Bicycle rental project creation
